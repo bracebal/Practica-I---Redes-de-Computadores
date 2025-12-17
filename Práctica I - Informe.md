@@ -86,6 +86,11 @@ Las pruebas de validación se realizaron utilizando un tester de continuidad bá
 * **Estado:** **PASS (ÉXITO)**.
 * **Observación:** Continuidad eléctrica correcta y correspondencia 1:1.
 
+![5050975806498212717](https://github.com/user-attachments/assets/189b9932-a928-42a5-9d91-4df1b46f8db8)
+![5050975806498212719](https://github.com/user-attachments/assets/5f026477-18bf-445f-8137-a991fd09a374)
+![5050975806498212718](https://github.com/user-attachments/assets/de94bd77-71a4-4163-badd-55562675355c)
+
+
 ### 5.2. Caso B: Cable Cruzado (Intento T568A - T568B)
 * **Configuración:** Extremo A (T568A) / Extremo B (T568B).
 * **Resultado del Tester:** Sin señal coherente.
@@ -118,4 +123,5 @@ Se observó visualmente que los hilos no llegaban al final del conector RJ45 en 
 * Es idóneo mantener el área de trabajo limpia e ir desechando los equipos que ya sean útiles para evitar confusiones que interrumpan el trabajo.
 
 ---
+
 **Universidad de Carabobo - Facultad Experimental de Ciencias y Tecnología**
