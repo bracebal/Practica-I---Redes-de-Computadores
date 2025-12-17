@@ -92,6 +92,7 @@ Las pruebas de validación se realizaron utilizando un tester de continuidad bá
   <img src="https://github.com/user-attachments/assets/de94bd77-71a4-4163-badd-55562675355c" width="250">
 </div>
 
+<div style="page-break-after: always;"></div>
 
 ### 5.2. Caso B: Cable Cruzado (Intento T568A - T568B)
 * **Configuración:** Extremo A (T568A) / Extremo B (T568B).
@@ -127,4 +128,5 @@ Se observó visualmente que los hilos no llegaban al final del conector RJ45 en 
 ---
 
 **Universidad de Carabobo - Facultad Experimental de Ciencias y Tecnología**
+
 
